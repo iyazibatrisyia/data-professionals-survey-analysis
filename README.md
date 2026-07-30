@@ -33,7 +33,7 @@ Understanding the landscape of data careers—ranging from compensation expectat
 ├── Data/
 │   └── Power BI - Final Project.xlsx        # Raw Survey Dataset
 ├── Dashboard/
-│   └── Data_Professional_Survey.pbix        # Power BI Source File
+│   └── Powerbi presentation .pbix        # Power BI Source File
 ├── Screenshots/
-│   └── Dashboard_Overview.png               # High-res Dashboard Preview
+│   └── Powerbi dashboard.png               # High-res Dashboard Preview
 └── README.md                                # Project Documentation
